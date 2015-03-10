@@ -1,0 +1,13 @@
+#1  // start of a new multiple image system with numbering
+4,1.5  // number of images in the system , and its redshift
+14.00,5.22  // x,y coordinates of the image 
+-5.81,14.54 // the same for all other images of the system	
+12.01,6.82
+-0.23,-19.32
+#2  // beginning of another system
+3,2.0
+1.0,1.0
+1.0,1.0
+1.0,1.0
+
+	
